@@ -11,12 +11,12 @@ namespace Class1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            SubmitButton.Text = "Submit";
+            
         }
-
         protected void SubmitButton_Click(object sender, EventArgs e)
         {
-            SubmitButton.Text = "Hot";
+            FullNameTextBox.Text = FirstNameTextBox.Text + " " + LastNameTextBox.Text;
         }
+
     }
 }
