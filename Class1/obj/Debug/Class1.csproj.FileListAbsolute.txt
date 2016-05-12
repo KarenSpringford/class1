@@ -1,0 +1,6 @@
+c:\users\gcstudent\documents\visual studio 2013\Projects\Class1\Class1\bin\Class1.dll.config
+c:\users\gcstudent\documents\visual studio 2013\Projects\Class1\Class1\bin\Class1.dll
+c:\users\gcstudent\documents\visual studio 2013\Projects\Class1\Class1\bin\Class1.pdb
+c:\users\gcstudent\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+c:\users\gcstudent\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.dll
+c:\users\gcstudent\documents\visual studio 2013\Projects\Class1\Class1\obj\Debug\Class1.pdb
